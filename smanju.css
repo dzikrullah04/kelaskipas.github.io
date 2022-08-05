@@ -1,0 +1,71 @@
+*, html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(/aset/bg.jpeg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    
+    
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.konten-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    border: 3px #222 solid;
+    border-radius: 15px;
+}
+
+.konten-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    border: 3px #222 solid;
+    border-radius: 15px;
+
+}
+
+.konten-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    border: 3px #222 solid;
+    border-radius: 15px;
+}
+
+.konten-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    border: 3px #222 solid;
+    border-radius: 15px;
+}
+
+.konten-5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    border: 3px #222 solid;
+    border-radius: 15px;
+}
